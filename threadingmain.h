@@ -17,7 +17,7 @@ public:
 
 private:
     Ui::ThreadingMain *ui;
-    QVector<QWidget *> mDialogs;
+    //QVector<QWidget *> mDialogs;
 
 private slots:
     void on_btnCreate_clicked();
